@@ -33,6 +33,7 @@ This module is written in ES6/7. You will need `babel` to run it.
 6. Don't forget to edit this `README.md` file.
 >>>>>>> starterkit/master
 
+
 In a component file (eg. `MyComponent.jsx`):
 ```js
 import { styles } from 'react-statics-styles';
