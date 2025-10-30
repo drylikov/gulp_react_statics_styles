@@ -34,6 +34,7 @@ This module is written in ES6/7. You will need `babel` to run it.
 >>>>>>> starterkit/master
 
 
+
 In a component file (eg. `MyComponent.jsx`):
 ```js
 import { styles } from 'react-statics-styles';
