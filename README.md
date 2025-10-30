@@ -8,6 +8,7 @@ Gulp React Statics Style
 ========================
 
 
+
 gulp wrapper for [`react-statics-styles`](https://github.com/drylikov/react_statics_styles).
 Its takes components source files which export component definitions, and gives CSS files. You can then pipe it to other processors, such as `gulp-postcss`.
 
