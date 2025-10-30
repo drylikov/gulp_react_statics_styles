@@ -2,6 +2,7 @@
 
 
 Gulp React Statics Style
+
 ========================
 
 gulp wrapper for [`react-statics-styles`](https://github.com/drylikov/react_statics_styles).
