@@ -20,6 +20,7 @@ Usage
 
 =====
 
+
 <<<<<<< HEAD
 This module is written in ES6/7. You will need `babel` to run it.
 =======
